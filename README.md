@@ -1,12 +1,7 @@
 # myapp
 
-![image](https://github.com/user-attachments/assets/30a1f29e-3bde-4116-80fc-bafbbdd2065e)
+![tacos 1](https://github.com/user-attachments/assets/87cbe073-1901-433a-8832-1c4386946561)
 
-![image](https://github.com/user-attachments/assets/a9b4f2f1-9a86-418c-90f1-a0e445503339)
-
-![image](https://github.com/user-attachments/assets/a12988d8-64d2-45af-88a4-6d018b1aa549)
-
-![image](https://github.com/user-attachments/assets/7a8467d0-fd06-40d7-b8e4-ee787e620a06)
 
 ## Getting Started
 
